@@ -209,12 +209,15 @@ These are the basic steps involved in executing a command in Minishell.
 ## Resources
 Lexer && Parser:
 <br>
-*https://www.youtube.com/watch?v=bxpc9Pp5pZM&ab_channel=Computerphile
-*https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf
+-> https://www.youtube.com/watch?v=bxpc9Pp5pZM&ab_channel=Computerphile
+<br>
+-> https://www.cs.purdue.edu/homes/grr/SystemsProgrammingBook/Book/Chapter5-WritingYourOwnShell.pdf
 https://www.geeksforgeeks.org/making-linux-shell-c/
 <br>
 Execution:
 <br>
-*https://www.youtube.com/watch?v=cex9XrZCU14&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&ab_channel=CodeVault
-*https://www.youtube.com/watch?v=Wtd-8OiZOjk&ab_channel=Jess-Inspired
-*https://www.geeksforgeeks.org/pipe-system-call/
+-> https://www.youtube.com/watch?v=cex9XrZCU14&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&ab_channel=CodeVault
+<br>
+-> https://www.youtube.com/watch?v=Wtd-8OiZOjk&ab_channel=Jess-Inspired
+<br>
+-> https://www.geeksforgeeks.org/pipe-system-call/
